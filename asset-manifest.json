@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portafolio/static/css/main.59742dbe.chunk.css",
+    "main.js": "/portafolio/static/js/main.d303425a.chunk.js",
+    "main.js.map": "/portafolio/static/js/main.d303425a.chunk.js.map",
+    "runtime-main.js": "/portafolio/static/js/runtime-main.81433849.js",
+    "runtime-main.js.map": "/portafolio/static/js/runtime-main.81433849.js.map",
+    "static/css/2.ed439b8d.chunk.css": "/portafolio/static/css/2.ed439b8d.chunk.css",
+    "static/js/2.347483e4.chunk.js": "/portafolio/static/js/2.347483e4.chunk.js",
+    "static/js/2.347483e4.chunk.js.map": "/portafolio/static/js/2.347483e4.chunk.js.map",
+    "index.html": "/portafolio/index.html",
+    "precache-manifest.6eb749b297b73a1f176a523ae24134cd.js": "/portafolio/precache-manifest.6eb749b297b73a1f176a523ae24134cd.js",
+    "service-worker.js": "/portafolio/service-worker.js",
+    "static/css/2.ed439b8d.chunk.css.map": "/portafolio/static/css/2.ed439b8d.chunk.css.map",
+    "static/css/main.59742dbe.chunk.css.map": "/portafolio/static/css/main.59742dbe.chunk.css.map",
+    "static/js/2.347483e4.chunk.js.LICENSE.txt": "/portafolio/static/js/2.347483e4.chunk.js.LICENSE.txt",
+    "static/media/bg-1.png": "/portafolio/static/media/bg-1.ee1d7b72.png",
+    "static/media/carousel-1.png": "/portafolio/static/media/carousel-1.905e0ce1.png",
+    "static/media/carousel-2.png": "/portafolio/static/media/carousel-2.60f3a4d8.png",
+    "static/media/carousel-3.png": "/portafolio/static/media/carousel-3.32ca69b3.png",
+    "static/media/logo-heos.png": "/portafolio/static/media/logo-heos.a5b0539f.png",
+    "static/media/logo-proto.png": "/portafolio/static/media/logo-proto.e0b66dff.png",
+    "static/media/logo.svg": "/portafolio/static/media/logo.5d5d9eef.svg",
+    "static/media/preview-messebau-virtual.png": "/portafolio/static/media/preview-messebau-virtual.31cee596.png",
+    "static/media/preview-messebau.png": "/portafolio/static/media/preview-messebau.0e77cdbd.png",
+    "static/media/preview-skillup.png": "/portafolio/static/media/preview-skillup.bff5b00e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81433849.js",
+    "static/css/2.ed439b8d.chunk.css",
+    "static/js/2.347483e4.chunk.js",
+    "static/css/main.59742dbe.chunk.css",
+    "static/js/main.d303425a.chunk.js"
+  ]
+}
